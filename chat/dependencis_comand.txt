@@ -1,0 +1,33 @@
+Comandos dependencias  
+
+
+>npm install express -g
+
+parseos
+npm install bcrypt-nodejs -g 
+
+subir archivos a el servidor 
+npm install  connect-multiparty -g
+
+poder usar  fechas 
+npm install moment -g
+
+podee utilizar bases de datos mongo 
+npm install  mongoose -g 
+
+
+paginas de consulta mongo 
+npm install  mongoose-pagination -g
+
+actualizacion de el servidor 
+>npm install  nodemon -g 
+
+evitar errores con react 
+npm install  nmp -g
+
+
+
+expres framework de node js para backend
+
+crear proyeecto visual 
+npx create-react-app administrador_proyectos
